@@ -1,0 +1,111 @@
+body{
+    background-color: #b6c9e8;
+}
+
+.header-container{
+    
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.logo{
+    
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    
+    width: 100%;
+    height: 10%;
+    color: black;
+}
+
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+ .historia{
+     background-color: #9ab6ea;
+     width: 8%;
+    text-align: center;
+    text-decoration: solid;
+    color: black;
+    
+ }
+ .biografia{
+    background-color: #9ab6ea;
+    width: 8%;
+   text-align: center;
+   text-decoration: solid;
+   color: black;
+   
+}
+.premios{
+    background-color: #9ab6ea;
+    width: 8%;
+   text-align: center;
+   text-decoration: solid;
+   color: black;
+   
+}
+.albumes{
+    background-color: #9ab6ea;
+    width: 8%;
+   text-align: center;
+   text-decoration: solid;
+   color: black;
+   
+}
+.conciertos{
+    background-color: #9ab6ea;
+    width: 8%;
+   text-align: center;
+   text-decoration: solid;
+   color: black;
+   
+}
+.pie{
+    text-align: center;
+}
+.historia1{
+    text-align: center;
+
+
+}
+.historia2{
+    font-style: italic;
+    font-size:larger;
+
+
+    
+    
+
+}
+.premios1{
+font-size: x-large;
+text-align: center;
+
+
+}
+img {
+    max-width:100%;
+    max-height: 100%;
+    
+
+}
+.lol{
+    height: 700px;
+    width: 700px;
+    text-align: center;
+
+}
+div{
+    text-align: center;
+
+}
+
+
+
